@@ -1,0 +1,23 @@
+{
+  "name": "cgamz",
+  "main": "index.js",
+  "homepage": "https://github.com/CadeLyons/cgamz",
+  "authors": [
+    "CadeLyons <CadeLyons1236@gmail.com>"
+  ],
+  "description": "A game library",
+  "keywords": [
+    "cgamz"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
